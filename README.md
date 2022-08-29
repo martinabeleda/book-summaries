@@ -5,4 +5,5 @@
 
 - [Clean Code - Robert C. Martin](./clean_code/README.md)
 - [An Elegant Puzzle: Systems of Engineering Management - Will Larsson](./an_elegant_puzzle/README.md)
+- [System Design Interview: An Insiders Guide - Alex Xu](./system_design_interview/README.md)
 
