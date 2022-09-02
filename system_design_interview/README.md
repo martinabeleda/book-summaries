@@ -7,5 +7,4 @@ Author: Alex Xu
 ## Chapters
 
 - [1 - Scale from Zero to Millions of Users](chapters/1_scale_from_zero_to_millions)
-- [2 - Back of the Envelope Estimation]()
-
+- [2 - Back of the Envelope Estimation](chapters/2_back_of_the_envelope_estimation.md)
