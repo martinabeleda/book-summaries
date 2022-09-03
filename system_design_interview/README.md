@@ -9,3 +9,4 @@ Author: Alex Xu
 - [1 - Scale from Zero to Millions of Users](chapters/1_scale_from_zero_to_millions)
 - [2 - Back of the Envelope Estimation](chapters/2_back_of_the_envelope_estimation.md)
 - [3 - A Framework for System Design Interviews](chapters/3_framework_for_system_design_interviews.md)
+- [4 - Rate Limiter](chapters/4_design_a_rate_limiter.md)
